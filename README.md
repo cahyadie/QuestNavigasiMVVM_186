@@ -2,7 +2,8 @@
   Tampilan awal
 </h1>
 
-![image](https://github.com/user-attachments/assets/0b573a3e-b7f2-4c7a-a6f6-cac5b151a529)
+![Screenshot 2024-11-21 230442](https://github.com/user-attachments/assets/8426f8f9-300a-4970-a2c3-76438f7e1203)
+
 
 <h1>
   input
