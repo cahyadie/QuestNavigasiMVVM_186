@@ -1,4 +1,4 @@
-![Screenshot 2024-11-21 230525](https://github.com/user-attachments/assets/6cc7c44f-97e6-4712-b9ad-8062b2ae034f)<h1>
+<h1>
   Tampilan awal
 </h1>
 
